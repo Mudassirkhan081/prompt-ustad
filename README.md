@@ -8,4 +8,4 @@ Prompt generation runs locally in the browser. No AI API, subscription or paymen
 
 Publish with GitHub Pages: Settings > Pages > Deploy from a branch > main > /(root). The .nojekyll file keeps these static files unchanged. All public site files are at the repository root for straightforward uploads.
 
-Third-party font/icon notices are included in the corresponding license text files. Privacy and Terms pages remain marked as owner-review drafts.
+Third-party font/icon notices are included in the corresponding license text files. Privacy and Terms describe the free studio and optional, consent-based Google Analytics. Analytics does not include prompt fields. Measurement ID: G-7063PLJYMM. Enhanced measurement is off.
