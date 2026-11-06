@@ -21,6 +21,8 @@
 - [Free prompt studio](https://mudassirkhan081.github.io/prompt-ustad/studio.html): create and edit a prompt.
 - [Prompt examples](https://mudassirkhan081.github.io/prompt-ustad/examples.html): editable examples for work and learning.
 - [Prompt writing guides](https://mudassirkhan081.github.io/prompt-ustad/guides.html): practical guidance and linked tutorials.
+- [Free AI prompt builder for students](https://mudassirkhan081.github.io/prompt-ustad/student-prompt-builder.html): study prompts for explanations, practice and revision plans.
+- [Roman Urdu prompt guide](https://mudassirkhan081.github.io/prompt-ustad/guides-roman-urdu-prompts.html): preserve Roman Urdu input and choose the response language.
 - [About](https://mudassirkhan081.github.io/prompt-ustad/about.html): creator, product scope and contact details.
 - [Privacy](https://mudassirkhan081.github.io/prompt-ustad/privacy.html): browser storage and analytics details.
 - [Terms](https://mudassirkhan081.github.io/prompt-ustad/terms.html): terms of use.
