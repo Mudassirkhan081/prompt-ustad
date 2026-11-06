@@ -1,0 +1,30 @@
+# Prompt Ustad
+
+> Prompt Ustad is a free, rule-based prompt builder founded and built by Mudassir Khan. It helps students, educators, freelancers and everyday users organise a rough request into an editable prompt in English or Roman Urdu.
+
+## What it does
+
+- Structures a request into a task, context, audience, format and constraints.
+- Lets users review and edit each prompt block before copying or downloading.
+- Includes examples, writing guides and a follow-up prompt builder.
+- Works in a browser and keeps drafts in that browser’s local storage.
+
+## Limits and accuracy
+
+- Prompt Ustad does not call an AI model, generate an answer, translate the original brief or verify facts.
+- Users choose which AI tool to use and should review its output.
+- The product is free to use; there are no paid plans, subscriptions or locked exports in the current version.
+
+## Key pages
+
+- [Home](https://mudassirkhan081.github.io/prompt-ustad/): product overview and frequently asked questions.
+- [Free prompt studio](https://mudassirkhan081.github.io/prompt-ustad/studio.html): create and edit a prompt.
+- [Prompt examples](https://mudassirkhan081.github.io/prompt-ustad/examples.html): editable examples for work and learning.
+- [Prompt writing guides](https://mudassirkhan081.github.io/prompt-ustad/guides.html): practical guidance and linked tutorials.
+- [About](https://mudassirkhan081.github.io/prompt-ustad/about.html): creator, product scope and contact details.
+- [Privacy](https://mudassirkhan081.github.io/prompt-ustad/privacy.html): browser storage and analytics details.
+- [Terms](https://mudassirkhan081.github.io/prompt-ustad/terms.html): terms of use.
+
+## Creator
+
+Mudassir Khan is a web and WordPress developer and the founder of Prompt Ustad. [Portfolio](https://mudassirkhanpf.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mudassirkhan-webdev/) · [GitHub](https://github.com/Mudassirkhan081).
