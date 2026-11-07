@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40"><rect width="40" height="40" rx="11" fill="#185b4c"/><path d="M12 12h9a6 6 0 0 1 0 12h-4v6h-5V12zm5 5v3h4a1.5 1.5 0 0 0 0-3z" fill="#f6f5ee"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Prompt Ustad favicon</title>
+  <rect x="2" y="2" width="60" height="60" rx="17" fill="#185b4c" stroke="#f6f5ee" stroke-opacity=".72" stroke-width="1.2"/>
+  <path d="M17.5 20a5.5 5.5 0 0 1 5.5-5.5h19a5.5 5.5 0 0 1 5.5 5.5v15a5.5 5.5 0 0 1-5.5 5.5H30l-9 6.5v-6.5h-1a5.5 5.5 0 0 1-5.5-5.5V20z" fill="#f6f5ee"/>
+  <path d="M23 24h19M23 30.5h13.5M23 37h8" fill="none" stroke="#185b4c" stroke-linecap="round" stroke-width="2.8"/>
+  <path d="M50 8v9M45.5 12.5h9M46.8 9.3l6.4 6.4M53.2 9.3l-6.4 6.4" fill="none" stroke="#e4bd64" stroke-linecap="round" stroke-width="2.2"/>
+</svg>
